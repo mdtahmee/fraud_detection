@@ -1,0 +1,6 @@
+build-essential
+cmake
+libssl-dev
+libffi-dev
+python3-dev
+ninja-build
