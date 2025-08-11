@@ -98,12 +98,11 @@ Click Deploy – Your app will be live in seconds.
 
 
 
-Author
-MD Tahmeed
-📧 Email: mdtahmeed2003@gmail.com
-🌐 GitHub | LinkedIn
+## ✨ Author
+**MD Tahmeed**  
+📧 Email: [mdtahmeed2003@gmail.com](mailto:mdtahmeed2003@gmail.com)  
+🌐 [GitHub](https://github.com/mdtahmee) | [LinkedIn](https://www.linkedin.com/in/md-tahmeed-796650273)
 
-yaml
 Copy
 Edit
 
