@@ -78,6 +78,17 @@ Click Deploy – Your app will be live in seconds!
 
 💡 Example: Live Fraud Detection App
 
+📷 Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🚨 Fraud Prediction Example
+![Fraud Prediction](screenshots/fraud_prediction.png)
+
+### ✅ Safe Transaction Example
+![Safe Transaction](screenshots/safe_prediction.png)
 
 
 ✨ Author
