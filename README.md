@@ -103,6 +103,5 @@ Click Deploy – Your app will be live in seconds.
 📧 Email: [mdtahmeed2003@gmail.com](mailto:mdtahmeed2003@gmail.com)  
 🌐 [GitHub](https://github.com/mdtahmee) | [LinkedIn](https://www.linkedin.com/in/md-tahmeed-796650273)
 
-Copy
-Edit
+
 
