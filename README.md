@@ -82,13 +82,18 @@ Click Deploy – Your app will be live in seconds!
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+<img width="1917" height="857" alt="Screenshot 2025-08-11 174419" src="https://github.com/user-attachments/assets/aa7f4ca6-b4c3-4f96-ac05-dbd476916e35" />
 
-### 🚨 Fraud Prediction Example
-![Fraud Prediction](screenshots/fraud_prediction.png)
 
-### ✅ Safe Transaction Example
-![Safe Transaction](screenshots/safe_prediction.png)
+### 🚨 Fraud Prediction 
+![Fraud Prediction]
+<img width="1897" height="857" alt="Screenshot 2025-08-11 174710" src="https://github.com/user-attachments/assets/f949f3ed-efcc-4c52-8773-3c739c41b429" />
+
+
+### ✅ Safe Transaction 
+![Safe Transaction]
+<img width="1903" height="855" alt="Screenshot 2025-08-11 174454" src="https://github.com/user-attachments/assets/8835508d-86bc-4c07-b2ef-b87ddb1f512f" />
+
 
 
 ✨ Author
